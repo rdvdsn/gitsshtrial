@@ -4,7 +4,9 @@
 
 **Bold** and *italics* and some inline 'code'.
 
-'''bash
+*** bash
 
+echo 'Hello World'
+echo "$Variable"
 
----
+***
